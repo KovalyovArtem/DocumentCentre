@@ -1,0 +1,10 @@
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\bin\Debug\DocumentCentre.exe.config
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\bin\Debug\DocumentCentre.exe
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\bin\Debug\DocumentCentre.pdb
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\obj\Debug\DocumentCentre.csprojAssemblyReference.cache
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\obj\Debug\DocumentCentre.Form1.resources
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\obj\Debug\DocumentCentre.Properties.Resources.resources
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\obj\Debug\DocumentCentre.csproj.GenerateResource.cache
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\obj\Debug\DocumentCentre.csproj.CoreCompileInputs.cache
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\obj\Debug\DocumentCentre.exe
+D:\Программирование\DocumentCentre\DocumentCentre\DocumentCentre\obj\Debug\DocumentCentre.pdb
